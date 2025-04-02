@@ -1,1 +1,3 @@
 Linea 2 en acti31.txt
+Linea desde main 1
+Linea desde main 2
